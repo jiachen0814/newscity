@@ -74,7 +74,7 @@ function setup() {
     input.style('font-size','15px');
  
     //button sports
-    button = createImg('https://cdn.rawgit.com/jiachen0814/newscity/main/sports.JPG');
+    button = createImg('https://uploads-ssl.webflow.com/60848d5a9c0f325bac218419/609c64d7852c7d16bb827002_sports.JPG');
     button.style('border-top-left-radius', '0.5em');
     button.style('border-top-right-radius', '0.5em');
     button.style('border-bottom-left-radius', '0.5em');
@@ -85,7 +85,7 @@ function setup() {
     button.mousePressed(sports);
 
     //button science
-    button = createImg('https://cdn.rawgit.com/jiachen0814/newscity/main/science.JPG');
+    button = createImg('https://uploads-ssl.webflow.com/60848d5a9c0f325bac218419/609c64d315b85e63f6bf3cc3_science.JPG');
     button.position(windowWidth/2-80, windowHeight/2+50);
     button.mousePressed(science);
     button.style('border-top-left-radius', '0.5em');
@@ -96,7 +96,7 @@ function setup() {
     button.style('width','50px');
   
     //button business
-    button = createImg('https://cdn.rawgit.com/jiachen0814/newscity/main/business.JPG');
+    button = createImg('https://uploads-ssl.webflow.com/60848d5a9c0f325bac218419/609c64d2ce2e86902a79956e_business.JPG');
     button.position(windowWidth/2-20, windowHeight/2+50);
     button.mousePressed(business);
     button.style('border-top-left-radius', '0.5em');
@@ -107,7 +107,7 @@ function setup() {
     button.style('width','50px');
   
     //button politics
-    button = createImg('https://cdn.rawgit.com/jiachen0814/newscity/main/politics.JPG');
+    button = createImg('https://uploads-ssl.webflow.com/60848d5a9c0f325bac218419/609c64d3184c23553ce50e74_politics.JPG');
     button.position(windowWidth/2+40, windowHeight/2+50);
     button.mousePressed(politics);
     button.style('border-top-left-radius', '0.5em');
@@ -118,7 +118,7 @@ function setup() {
     button.style('width','50px');
   
     //button culture
-    button = createImg('https://cdn.rawgit.com/jiachen0814/newscity/main/culture.JPG');
+    button = createImg('https://uploads-ssl.webflow.com/60848d5a9c0f325bac218419/609c64d3a2a4a70715bba254_culture.JPG');
     button.position(windowWidth/2+100, windowHeight/2+50);
     button.mousePressed(culture);
     button.style('border-top-left-radius', '0.5em');
