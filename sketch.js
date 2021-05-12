@@ -74,7 +74,7 @@ function setup() {
     input.style('font-size','15px');
  
     //button sports
-    button = createImg('https://ibb.co/GMHBb2z');
+    button = createImg('https://cdn.rawgit.com/jiachen0814/newscity/main/sports.JPG');
     button.style('border-top-left-radius', '0.5em');
     button.style('border-top-right-radius', '0.5em');
     button.style('border-bottom-left-radius', '0.5em');
@@ -85,7 +85,7 @@ function setup() {
     button.mousePressed(sports);
 
     //button science
-    button = createImg('https://ibb.co/HNtdb7p');
+    button = createImg('https://cdn.rawgit.com/jiachen0814/newscity/main/science.JPG');
     button.position(windowWidth/2-80, windowHeight/2+50);
     button.mousePressed(science);
     button.style('border-top-left-radius', '0.5em');
@@ -96,7 +96,7 @@ function setup() {
     button.style('width','50px');
   
     //button business
-    button = createImg('https://ibb.co/2dFGpcj');
+    button = createImg('https://cdn.rawgit.com/jiachen0814/newscity/main/business.JPG');
     button.position(windowWidth/2-20, windowHeight/2+50);
     button.mousePressed(business);
     button.style('border-top-left-radius', '0.5em');
@@ -107,7 +107,7 @@ function setup() {
     button.style('width','50px');
   
     //button politics
-    button = createImg('https://ibb.co/64137MD');
+    button = createImg('https://cdn.rawgit.com/jiachen0814/newscity/main/politics.JPG');
     button.position(windowWidth/2+40, windowHeight/2+50);
     button.mousePressed(politics);
     button.style('border-top-left-radius', '0.5em');
@@ -118,7 +118,7 @@ function setup() {
     button.style('width','50px');
   
     //button culture
-    button = createImg('https://ibb.co/d753sbd');
+    button = createImg('https://cdn.rawgit.com/jiachen0814/newscity/main/culture.JPG');
     button.position(windowWidth/2+100, windowHeight/2+50);
     button.mousePressed(culture);
     button.style('border-top-left-radius', '0.5em');
